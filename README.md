@@ -1,4 +1,4 @@
-# tolocal パノラマ合成アプリ~Stitchng App~のバックエンド
+# tolocal パノラマ合成アプリのバックエンド
 
 ## 前提条件
 
