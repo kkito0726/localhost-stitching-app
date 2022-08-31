@@ -18,3 +18,7 @@ $ git clone https://github.com/kkito0726/localhost-stitching-app.git
 
 1. localhost.bat を実行してローカルサーバーを立ち上げる。(ショートカットをデスクトップに作っておくと使いやすい。)
 2. [https://stitching-web-app2-local.vercel.app/](https://stitching-web-app2-local.vercel.app/)にアクセスする。
+
+## Python 環境がない場合
+
+activate_server.exe をダウンロードして開くとサーバーの接続と URL のアクセスを自動で行ってくれる。
