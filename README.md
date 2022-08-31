@@ -21,4 +21,4 @@ $ git clone https://github.com/kkito0726/localhost-stitching-app.git
 
 ## Python 環境がない場合
 
-activate_server.exe をダウンロードして開くとサーバーの接続と URL のアクセスを自動で行ってくれる。
+activate_server.exe をダウンロードして開くとローカルサーバーの起動と URL のアクセスを自動で行ってくれる。
